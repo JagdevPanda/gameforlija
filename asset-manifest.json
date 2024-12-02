@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/JagdevPanda/gameforlija/static/css/main.77d98e6a.css",
+    "main.js": "/JagdevPanda/gameforlija/static/js/main.445df2fa.js",
+    "static/js/453.c10c2576.chunk.js": "/JagdevPanda/gameforlija/static/js/453.c10c2576.chunk.js",
+    "static/media/trex.png": "/JagdevPanda/gameforlija/static/media/trex.80a4804c0f261a100f3f.png",
+    "index.html": "/JagdevPanda/gameforlija/index.html",
+    "main.77d98e6a.css.map": "/JagdevPanda/gameforlija/static/css/main.77d98e6a.css.map",
+    "main.445df2fa.js.map": "/JagdevPanda/gameforlija/static/js/main.445df2fa.js.map",
+    "453.c10c2576.chunk.js.map": "/JagdevPanda/gameforlija/static/js/453.c10c2576.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.77d98e6a.css",
+    "static/js/main.445df2fa.js"
+  ]
+}
